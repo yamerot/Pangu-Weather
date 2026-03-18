@@ -177,19 +177,19 @@ while date.item().year == 2022:
         curr_mon = date.item().month
         if get_file(
             host='landata', 
-            remote_path=f'/stu02/chengzy25/era5_pangu/surface_lev/2022-{curr_mon:02}.nc', 
+            remote_path=f'/stu02/chengzy25/era5_pangu/surface_lev/2022/2022-{curr_mon:02}.nc', 
             local_path='./data/initial/surface_input.nc', 
         ):
             surface_data = get_data('./data/initial/surface_input.nc', ['msl', 'u10', 'v10', 't2m'])
         else:
-            date = (date + np.timedelta64(1, 'M')).astype('datetime64[M]').astype('datetime64[D]')
+            date = (date.astype('datetime64[M]') + np.timedelta64(1, 'M')).astype('datetime64[D]')
             logger.error(f'failed to get monthly surface data, skipping to {date}')
             continue
             
     # 下载当天气压层数据，下载失败跳到下一天
     if get_file(
         host='landata', 
-        remote_path=f'/stu02/chengzy25/era5_pangu/pressure_lev/2022-{curr_mon:02}/{str(date)}.nc', 
+        remote_path=f'/stu02/chengzy25/era5_pangu/pressure_lev/2022/2022-{curr_mon:02}/{str(date)}.nc', 
         local_path='./data/initial/upper_input.nc', 
     ):
         upper_data = get_data('./data/initial/upper_input.nc', ['z', 'q', 't', 'u', 'v'])
