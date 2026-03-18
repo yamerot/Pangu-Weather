@@ -248,7 +248,6 @@ while date.item().year == 2022:
     logger.info(f'prediction of {date} done, outcomes saved')
 
     date = date + np.timedelta64(1, 'D')
-    break
 
 logger.info('prediction all done, making dataset')
 # 将全年数据打包为nc文件
