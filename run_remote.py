@@ -25,7 +25,7 @@ def get_file(host, remote_path, local_path, chances=2):
     return False
 
 def get_data(filepath, vars):
-    ds = xr.open_dataset(filepath, chunks={'valid_time': -1, 'lat': 180, 'lon': 360})
+    ds = xr.open_dataset(filepath, chunks={'valid_time': -1, 'latitude': 180, 'longitude': 360})
     stacked = ds[vars].to_array(dim='channel')
     dims = list(stacked.dims)
     dims.remove('valid_time')

@@ -1,0 +1,407 @@
+03-18 17:37:59 - INFO - models loaded
+03-18 17:45:27 - INFO - prediction of 2022-01-01 done, outcomes saved
+03-18 17:48:53 - INFO - prediction of 2022-01-02 done, outcomes saved
+03-18 17:52:07 - INFO - prediction of 2022-01-03 done, outcomes saved
+03-18 17:55:12 - INFO - prediction of 2022-01-04 done, outcomes saved
+03-18 17:58:01 - INFO - prediction of 2022-01-05 done, outcomes saved
+03-18 18:00:53 - INFO - prediction of 2022-01-06 done, outcomes saved
+03-18 18:04:02 - INFO - prediction of 2022-01-07 done, outcomes saved
+03-18 18:07:12 - INFO - prediction of 2022-01-08 done, outcomes saved
+03-18 18:10:31 - INFO - prediction of 2022-01-09 done, outcomes saved
+03-18 18:13:40 - INFO - prediction of 2022-01-10 done, outcomes saved
+03-18 18:16:41 - INFO - prediction of 2022-01-11 done, outcomes saved
+03-18 18:19:51 - INFO - prediction of 2022-01-12 done, outcomes saved
+03-18 18:22:41 - INFO - prediction of 2022-01-13 done, outcomes saved
+03-18 18:26:16 - INFO - prediction of 2022-01-14 done, outcomes saved
+03-18 18:29:29 - INFO - prediction of 2022-01-15 done, outcomes saved
+03-18 18:32:38 - INFO - prediction of 2022-01-16 done, outcomes saved
+03-18 18:35:41 - INFO - prediction of 2022-01-17 done, outcomes saved
+03-18 18:38:22 - INFO - prediction of 2022-01-18 done, outcomes saved
+03-18 18:41:14 - INFO - prediction of 2022-01-19 done, outcomes saved
+03-18 18:44:57 - INFO - prediction of 2022-01-20 done, outcomes saved
+03-18 18:47:56 - INFO - prediction of 2022-01-21 done, outcomes saved
+03-18 18:51:26 - INFO - prediction of 2022-01-22 done, outcomes saved
+03-18 18:55:28 - INFO - prediction of 2022-01-23 done, outcomes saved
+03-18 18:59:06 - INFO - prediction of 2022-01-24 done, outcomes saved
+03-18 19:02:11 - INFO - prediction of 2022-01-25 done, outcomes saved
+03-18 19:05:23 - INFO - prediction of 2022-01-26 done, outcomes saved
+03-18 19:08:34 - INFO - prediction of 2022-01-27 done, outcomes saved
+03-18 19:12:22 - INFO - prediction of 2022-01-28 done, outcomes saved
+03-18 19:16:11 - INFO - prediction of 2022-01-29 done, outcomes saved
+03-18 19:20:09 - INFO - prediction of 2022-01-30 done, outcomes saved
+03-18 19:24:41 - INFO - prediction of 2022-01-31 done, outcomes saved
+03-18 19:35:53 - INFO - prediction of 2022-02-01 done, outcomes saved
+03-18 19:41:05 - INFO - prediction of 2022-02-02 done, outcomes saved
+03-18 19:47:06 - INFO - prediction of 2022-02-03 done, outcomes saved
+03-18 19:52:32 - INFO - prediction of 2022-02-04 done, outcomes saved
+03-18 19:57:29 - INFO - prediction of 2022-02-05 done, outcomes saved
+03-18 20:02:20 - INFO - prediction of 2022-02-06 done, outcomes saved
+03-18 20:07:54 - INFO - prediction of 2022-02-07 done, outcomes saved
+03-18 20:12:49 - INFO - prediction of 2022-02-08 done, outcomes saved
+03-18 20:18:04 - INFO - prediction of 2022-02-09 done, outcomes saved
+03-18 20:25:16 - INFO - prediction of 2022-02-10 done, outcomes saved
+03-18 20:32:25 - INFO - prediction of 2022-02-11 done, outcomes saved
+03-18 20:39:35 - INFO - prediction of 2022-02-12 done, outcomes saved
+03-18 20:46:43 - INFO - prediction of 2022-02-13 done, outcomes saved
+03-18 20:50:47 - INFO - prediction of 2022-02-14 done, outcomes saved
+03-18 20:53:43 - INFO - prediction of 2022-02-15 done, outcomes saved
+03-18 20:56:28 - INFO - prediction of 2022-02-16 done, outcomes saved
+03-18 20:58:58 - INFO - prediction of 2022-02-17 done, outcomes saved
+03-18 21:01:25 - INFO - prediction of 2022-02-18 done, outcomes saved
+03-18 21:03:50 - INFO - prediction of 2022-02-19 done, outcomes saved
+03-18 21:06:14 - INFO - prediction of 2022-02-20 done, outcomes saved
+03-18 21:08:39 - INFO - prediction of 2022-02-21 done, outcomes saved
+03-18 21:11:07 - INFO - prediction of 2022-02-22 done, outcomes saved
+03-18 21:13:32 - INFO - prediction of 2022-02-23 done, outcomes saved
+03-18 21:16:06 - INFO - prediction of 2022-02-24 done, outcomes saved
+03-18 21:18:52 - INFO - prediction of 2022-02-25 done, outcomes saved
+03-18 21:21:37 - INFO - prediction of 2022-02-26 done, outcomes saved
+03-18 21:24:43 - INFO - prediction of 2022-02-27 done, outcomes saved
+03-18 21:28:35 - INFO - prediction of 2022-02-28 done, outcomes saved
+03-18 21:35:29 - INFO - prediction of 2022-03-01 done, outcomes saved
+03-18 21:38:59 - INFO - prediction of 2022-03-02 done, outcomes saved
+03-18 21:42:31 - INFO - prediction of 2022-03-03 done, outcomes saved
+03-18 21:46:02 - INFO - prediction of 2022-03-04 done, outcomes saved
+03-18 21:49:10 - INFO - prediction of 2022-03-05 done, outcomes saved
+03-18 21:52:18 - INFO - prediction of 2022-03-06 done, outcomes saved
+03-18 21:55:29 - INFO - prediction of 2022-03-07 done, outcomes saved
+03-18 21:58:22 - INFO - prediction of 2022-03-08 done, outcomes saved
+03-18 22:01:33 - INFO - prediction of 2022-03-09 done, outcomes saved
+03-18 22:05:01 - INFO - prediction of 2022-03-10 done, outcomes saved
+03-18 22:08:07 - INFO - prediction of 2022-03-11 done, outcomes saved
+03-18 22:11:22 - INFO - prediction of 2022-03-12 done, outcomes saved
+03-18 22:14:27 - INFO - prediction of 2022-03-13 done, outcomes saved
+03-18 22:17:32 - INFO - prediction of 2022-03-14 done, outcomes saved
+03-18 22:20:43 - INFO - prediction of 2022-03-15 done, outcomes saved
+03-18 22:23:28 - INFO - prediction of 2022-03-16 done, outcomes saved
+03-18 22:26:15 - INFO - prediction of 2022-03-17 done, outcomes saved
+03-18 22:28:56 - INFO - prediction of 2022-03-18 done, outcomes saved
+03-18 22:31:55 - INFO - prediction of 2022-03-19 done, outcomes saved
+03-18 22:34:33 - INFO - prediction of 2022-03-20 done, outcomes saved
+03-18 22:37:04 - INFO - prediction of 2022-03-21 done, outcomes saved
+03-18 22:39:30 - INFO - prediction of 2022-03-22 done, outcomes saved
+03-18 22:42:14 - INFO - prediction of 2022-03-23 done, outcomes saved
+03-18 22:45:13 - INFO - prediction of 2022-03-24 done, outcomes saved
+03-18 22:47:50 - INFO - prediction of 2022-03-25 done, outcomes saved
+03-18 22:50:30 - INFO - prediction of 2022-03-26 done, outcomes saved
+03-18 22:52:56 - INFO - prediction of 2022-03-27 done, outcomes saved
+03-18 22:55:15 - INFO - prediction of 2022-03-28 done, outcomes saved
+03-18 22:57:48 - INFO - prediction of 2022-03-29 done, outcomes saved
+03-18 23:00:21 - INFO - prediction of 2022-03-30 done, outcomes saved
+03-18 23:03:03 - INFO - prediction of 2022-03-31 done, outcomes saved
+03-18 23:08:22 - INFO - prediction of 2022-04-01 done, outcomes saved
+03-18 23:11:03 - INFO - prediction of 2022-04-02 done, outcomes saved
+03-18 23:13:34 - INFO - prediction of 2022-04-03 done, outcomes saved
+03-18 23:16:13 - INFO - prediction of 2022-04-04 done, outcomes saved
+03-18 23:18:45 - INFO - prediction of 2022-04-05 done, outcomes saved
+03-18 23:21:24 - INFO - prediction of 2022-04-06 done, outcomes saved
+03-18 23:24:06 - INFO - prediction of 2022-04-07 done, outcomes saved
+03-18 23:26:35 - INFO - prediction of 2022-04-08 done, outcomes saved
+03-18 23:29:15 - INFO - prediction of 2022-04-09 done, outcomes saved
+03-18 23:31:31 - INFO - prediction of 2022-04-10 done, outcomes saved
+03-18 23:33:48 - INFO - prediction of 2022-04-11 done, outcomes saved
+03-18 23:36:06 - INFO - prediction of 2022-04-12 done, outcomes saved
+03-18 23:38:27 - INFO - prediction of 2022-04-13 done, outcomes saved
+03-18 23:40:41 - INFO - prediction of 2022-04-14 done, outcomes saved
+03-18 23:42:53 - INFO - prediction of 2022-04-15 done, outcomes saved
+03-18 23:45:12 - INFO - prediction of 2022-04-16 done, outcomes saved
+03-18 23:47:37 - INFO - prediction of 2022-04-17 done, outcomes saved
+03-18 23:50:19 - INFO - prediction of 2022-04-18 done, outcomes saved
+03-18 23:52:47 - INFO - prediction of 2022-04-19 done, outcomes saved
+03-18 23:55:35 - INFO - prediction of 2022-04-20 done, outcomes saved
+03-18 23:58:07 - INFO - prediction of 2022-04-21 done, outcomes saved
+03-19 00:01:10 - INFO - prediction of 2022-04-22 done, outcomes saved
+03-19 00:03:45 - INFO - prediction of 2022-04-23 done, outcomes saved
+03-19 00:06:16 - INFO - prediction of 2022-04-24 done, outcomes saved
+03-19 00:08:38 - INFO - prediction of 2022-04-25 done, outcomes saved
+03-19 00:11:07 - INFO - prediction of 2022-04-26 done, outcomes saved
+03-19 00:13:40 - INFO - prediction of 2022-04-27 done, outcomes saved
+03-19 00:16:09 - INFO - prediction of 2022-04-28 done, outcomes saved
+03-19 00:18:37 - INFO - prediction of 2022-04-29 done, outcomes saved
+03-19 00:21:07 - INFO - prediction of 2022-04-30 done, outcomes saved
+03-19 00:26:01 - INFO - prediction of 2022-05-01 done, outcomes saved
+03-19 00:28:33 - INFO - prediction of 2022-05-02 done, outcomes saved
+03-19 00:31:04 - INFO - prediction of 2022-05-03 done, outcomes saved
+03-19 00:33:33 - INFO - prediction of 2022-05-04 done, outcomes saved
+03-19 00:36:00 - INFO - prediction of 2022-05-05 done, outcomes saved
+03-19 00:38:25 - INFO - prediction of 2022-05-06 done, outcomes saved
+03-19 00:40:44 - INFO - prediction of 2022-05-07 done, outcomes saved
+03-19 00:43:12 - INFO - prediction of 2022-05-08 done, outcomes saved
+03-19 00:45:38 - INFO - prediction of 2022-05-09 done, outcomes saved
+03-19 00:48:00 - INFO - prediction of 2022-05-10 done, outcomes saved
+03-19 00:50:34 - INFO - prediction of 2022-05-11 done, outcomes saved
+03-19 00:52:54 - INFO - prediction of 2022-05-12 done, outcomes saved
+03-19 00:56:06 - INFO - prediction of 2022-05-13 done, outcomes saved
+03-19 00:58:56 - INFO - prediction of 2022-05-14 done, outcomes saved
+03-19 01:01:32 - INFO - prediction of 2022-05-15 done, outcomes saved
+03-19 01:04:42 - INFO - prediction of 2022-05-16 done, outcomes saved
+03-19 01:07:46 - INFO - prediction of 2022-05-17 done, outcomes saved
+03-19 01:11:03 - INFO - prediction of 2022-05-18 done, outcomes saved
+03-19 01:13:47 - INFO - prediction of 2022-05-19 done, outcomes saved
+03-19 01:16:38 - INFO - prediction of 2022-05-20 done, outcomes saved
+03-19 01:19:14 - INFO - prediction of 2022-05-21 done, outcomes saved
+03-19 01:21:41 - INFO - prediction of 2022-05-22 done, outcomes saved
+03-19 01:24:05 - INFO - prediction of 2022-05-23 done, outcomes saved
+03-19 01:26:36 - INFO - prediction of 2022-05-24 done, outcomes saved
+03-19 01:28:47 - INFO - prediction of 2022-05-25 done, outcomes saved
+03-19 01:30:56 - INFO - prediction of 2022-05-26 done, outcomes saved
+03-19 01:33:08 - INFO - prediction of 2022-05-27 done, outcomes saved
+03-19 01:35:16 - INFO - prediction of 2022-05-28 done, outcomes saved
+03-19 01:37:25 - INFO - prediction of 2022-05-29 done, outcomes saved
+03-19 01:39:35 - INFO - prediction of 2022-05-30 done, outcomes saved
+03-19 01:41:44 - INFO - prediction of 2022-05-31 done, outcomes saved
+03-19 01:45:34 - INFO - prediction of 2022-06-01 done, outcomes saved
+03-19 01:47:41 - INFO - prediction of 2022-06-02 done, outcomes saved
+03-19 01:49:50 - INFO - prediction of 2022-06-03 done, outcomes saved
+03-19 01:52:00 - INFO - prediction of 2022-06-04 done, outcomes saved
+03-19 01:54:08 - INFO - prediction of 2022-06-05 done, outcomes saved
+03-19 01:56:18 - INFO - prediction of 2022-06-06 done, outcomes saved
+03-19 01:58:28 - INFO - prediction of 2022-06-07 done, outcomes saved
+03-19 02:00:39 - INFO - prediction of 2022-06-08 done, outcomes saved
+03-19 02:02:49 - INFO - prediction of 2022-06-09 done, outcomes saved
+03-19 02:04:59 - INFO - prediction of 2022-06-10 done, outcomes saved
+03-19 02:07:08 - INFO - prediction of 2022-06-11 done, outcomes saved
+03-19 02:09:15 - INFO - prediction of 2022-06-12 done, outcomes saved
+03-19 02:11:24 - INFO - prediction of 2022-06-13 done, outcomes saved
+03-19 02:13:33 - INFO - prediction of 2022-06-14 done, outcomes saved
+03-19 02:15:41 - INFO - prediction of 2022-06-15 done, outcomes saved
+03-19 02:17:49 - INFO - prediction of 2022-06-16 done, outcomes saved
+03-19 02:19:58 - INFO - prediction of 2022-06-17 done, outcomes saved
+03-19 02:22:06 - INFO - prediction of 2022-06-18 done, outcomes saved
+03-19 02:24:13 - INFO - prediction of 2022-06-19 done, outcomes saved
+03-19 02:26:22 - INFO - prediction of 2022-06-20 done, outcomes saved
+03-19 02:28:30 - INFO - prediction of 2022-06-21 done, outcomes saved
+03-19 02:30:39 - INFO - prediction of 2022-06-22 done, outcomes saved
+03-19 02:32:48 - INFO - prediction of 2022-06-23 done, outcomes saved
+03-19 02:34:56 - INFO - prediction of 2022-06-24 done, outcomes saved
+03-19 02:37:04 - INFO - prediction of 2022-06-25 done, outcomes saved
+03-19 02:39:14 - INFO - prediction of 2022-06-26 done, outcomes saved
+03-19 02:41:22 - INFO - prediction of 2022-06-27 done, outcomes saved
+03-19 02:43:32 - INFO - prediction of 2022-06-28 done, outcomes saved
+03-19 02:45:41 - INFO - prediction of 2022-06-29 done, outcomes saved
+03-19 02:47:52 - INFO - prediction of 2022-06-30 done, outcomes saved
+03-19 02:52:00 - INFO - prediction of 2022-07-01 done, outcomes saved
+03-19 02:54:15 - INFO - prediction of 2022-07-02 done, outcomes saved
+03-19 02:56:28 - INFO - prediction of 2022-07-03 done, outcomes saved
+03-19 02:58:37 - INFO - prediction of 2022-07-04 done, outcomes saved
+03-19 03:00:49 - INFO - prediction of 2022-07-05 done, outcomes saved
+03-19 03:02:58 - INFO - prediction of 2022-07-06 done, outcomes saved
+03-19 03:05:07 - INFO - prediction of 2022-07-07 done, outcomes saved
+03-19 03:07:15 - INFO - prediction of 2022-07-08 done, outcomes saved
+03-19 03:09:23 - INFO - prediction of 2022-07-09 done, outcomes saved
+03-19 03:11:34 - INFO - prediction of 2022-07-10 done, outcomes saved
+03-19 03:13:42 - INFO - prediction of 2022-07-11 done, outcomes saved
+03-19 03:15:48 - INFO - prediction of 2022-07-12 done, outcomes saved
+03-19 03:17:59 - INFO - prediction of 2022-07-13 done, outcomes saved
+03-19 03:20:07 - INFO - prediction of 2022-07-14 done, outcomes saved
+03-19 03:22:16 - INFO - prediction of 2022-07-15 done, outcomes saved
+03-19 03:24:29 - INFO - prediction of 2022-07-16 done, outcomes saved
+03-19 03:26:39 - INFO - prediction of 2022-07-17 done, outcomes saved
+03-19 03:28:47 - INFO - prediction of 2022-07-18 done, outcomes saved
+03-19 03:30:55 - INFO - prediction of 2022-07-19 done, outcomes saved
+03-19 03:33:03 - INFO - prediction of 2022-07-20 done, outcomes saved
+03-19 03:35:11 - INFO - prediction of 2022-07-21 done, outcomes saved
+03-19 03:37:19 - INFO - prediction of 2022-07-22 done, outcomes saved
+03-19 03:39:28 - INFO - prediction of 2022-07-23 done, outcomes saved
+03-19 03:41:39 - INFO - prediction of 2022-07-24 done, outcomes saved
+03-19 03:43:49 - INFO - prediction of 2022-07-25 done, outcomes saved
+03-19 03:46:04 - INFO - prediction of 2022-07-26 done, outcomes saved
+03-19 03:48:23 - INFO - prediction of 2022-07-27 done, outcomes saved
+03-19 03:50:40 - INFO - prediction of 2022-07-28 done, outcomes saved
+03-19 03:52:54 - INFO - prediction of 2022-07-29 done, outcomes saved
+03-19 03:55:03 - INFO - prediction of 2022-07-30 done, outcomes saved
+03-19 03:57:15 - INFO - prediction of 2022-07-31 done, outcomes saved
+03-19 04:01:10 - INFO - prediction of 2022-08-01 done, outcomes saved
+03-19 04:03:19 - INFO - prediction of 2022-08-02 done, outcomes saved
+03-19 04:05:32 - INFO - prediction of 2022-08-03 done, outcomes saved
+03-19 04:07:44 - INFO - prediction of 2022-08-04 done, outcomes saved
+03-19 04:09:53 - INFO - prediction of 2022-08-05 done, outcomes saved
+03-19 04:12:01 - INFO - prediction of 2022-08-06 done, outcomes saved
+03-19 04:14:09 - INFO - prediction of 2022-08-07 done, outcomes saved
+03-19 04:16:21 - INFO - prediction of 2022-08-08 done, outcomes saved
+03-19 04:18:27 - INFO - prediction of 2022-08-09 done, outcomes saved
+03-19 04:20:37 - INFO - prediction of 2022-08-10 done, outcomes saved
+03-19 04:22:45 - INFO - prediction of 2022-08-11 done, outcomes saved
+03-19 04:24:56 - INFO - prediction of 2022-08-12 done, outcomes saved
+03-19 04:27:05 - INFO - prediction of 2022-08-13 done, outcomes saved
+03-19 04:29:14 - INFO - prediction of 2022-08-14 done, outcomes saved
+03-19 04:31:24 - INFO - prediction of 2022-08-15 done, outcomes saved
+03-19 04:33:33 - INFO - prediction of 2022-08-16 done, outcomes saved
+03-19 04:35:44 - INFO - prediction of 2022-08-17 done, outcomes saved
+03-19 04:37:52 - INFO - prediction of 2022-08-18 done, outcomes saved
+03-19 04:40:04 - INFO - prediction of 2022-08-19 done, outcomes saved
+03-19 04:42:12 - INFO - prediction of 2022-08-20 done, outcomes saved
+03-19 04:44:21 - INFO - prediction of 2022-08-21 done, outcomes saved
+03-19 04:46:32 - INFO - prediction of 2022-08-22 done, outcomes saved
+03-19 04:48:39 - INFO - prediction of 2022-08-23 done, outcomes saved
+03-19 04:50:45 - INFO - prediction of 2022-08-24 done, outcomes saved
+03-19 04:52:53 - INFO - prediction of 2022-08-25 done, outcomes saved
+03-19 04:55:00 - INFO - prediction of 2022-08-26 done, outcomes saved
+03-19 04:57:07 - INFO - prediction of 2022-08-27 done, outcomes saved
+03-19 04:59:14 - INFO - prediction of 2022-08-28 done, outcomes saved
+03-19 05:01:20 - INFO - prediction of 2022-08-29 done, outcomes saved
+03-19 05:03:27 - INFO - prediction of 2022-08-30 done, outcomes saved
+03-19 05:05:35 - INFO - prediction of 2022-08-31 done, outcomes saved
+03-19 05:09:20 - INFO - prediction of 2022-09-01 done, outcomes saved
+03-19 05:11:27 - INFO - prediction of 2022-09-02 done, outcomes saved
+03-19 05:13:34 - INFO - prediction of 2022-09-03 done, outcomes saved
+03-19 05:15:41 - INFO - prediction of 2022-09-04 done, outcomes saved
+03-19 05:17:48 - INFO - prediction of 2022-09-05 done, outcomes saved
+03-19 05:19:54 - INFO - prediction of 2022-09-06 done, outcomes saved
+03-19 05:22:01 - INFO - prediction of 2022-09-07 done, outcomes saved
+03-19 05:24:08 - INFO - prediction of 2022-09-08 done, outcomes saved
+03-19 05:26:15 - INFO - prediction of 2022-09-09 done, outcomes saved
+03-19 05:28:22 - INFO - prediction of 2022-09-10 done, outcomes saved
+03-19 05:30:28 - INFO - prediction of 2022-09-11 done, outcomes saved
+03-19 05:32:36 - INFO - prediction of 2022-09-12 done, outcomes saved
+03-19 05:34:43 - INFO - prediction of 2022-09-13 done, outcomes saved
+03-19 05:36:51 - INFO - prediction of 2022-09-14 done, outcomes saved
+03-19 05:38:59 - INFO - prediction of 2022-09-15 done, outcomes saved
+03-19 05:41:07 - INFO - prediction of 2022-09-16 done, outcomes saved
+03-19 05:43:15 - INFO - prediction of 2022-09-17 done, outcomes saved
+03-19 05:45:25 - INFO - prediction of 2022-09-18 done, outcomes saved
+03-19 05:47:33 - INFO - prediction of 2022-09-19 done, outcomes saved
+03-19 05:49:43 - INFO - prediction of 2022-09-20 done, outcomes saved
+03-19 05:51:52 - INFO - prediction of 2022-09-21 done, outcomes saved
+03-19 05:54:01 - INFO - prediction of 2022-09-22 done, outcomes saved
+03-19 05:56:08 - INFO - prediction of 2022-09-23 done, outcomes saved
+03-19 05:58:18 - INFO - prediction of 2022-09-24 done, outcomes saved
+03-19 06:00:25 - INFO - prediction of 2022-09-25 done, outcomes saved
+03-19 06:02:33 - INFO - prediction of 2022-09-26 done, outcomes saved
+03-19 06:04:41 - INFO - prediction of 2022-09-27 done, outcomes saved
+03-19 06:06:48 - INFO - prediction of 2022-09-28 done, outcomes saved
+03-19 06:08:56 - INFO - prediction of 2022-09-29 done, outcomes saved
+03-19 06:11:03 - INFO - prediction of 2022-09-30 done, outcomes saved
+03-19 06:14:51 - INFO - prediction of 2022-10-01 done, outcomes saved
+03-19 06:16:58 - INFO - prediction of 2022-10-02 done, outcomes saved
+03-19 06:19:05 - INFO - prediction of 2022-10-03 done, outcomes saved
+03-19 06:21:12 - INFO - prediction of 2022-10-04 done, outcomes saved
+03-19 06:23:20 - INFO - prediction of 2022-10-05 done, outcomes saved
+03-19 06:25:27 - INFO - prediction of 2022-10-06 done, outcomes saved
+03-19 06:27:34 - INFO - prediction of 2022-10-07 done, outcomes saved
+03-19 06:29:42 - INFO - prediction of 2022-10-08 done, outcomes saved
+03-19 06:31:49 - INFO - prediction of 2022-10-09 done, outcomes saved
+03-19 06:33:56 - INFO - prediction of 2022-10-10 done, outcomes saved
+03-19 06:36:03 - INFO - prediction of 2022-10-11 done, outcomes saved
+03-19 06:38:10 - INFO - prediction of 2022-10-12 done, outcomes saved
+03-19 06:40:17 - INFO - prediction of 2022-10-13 done, outcomes saved
+03-19 06:42:23 - INFO - prediction of 2022-10-14 done, outcomes saved
+03-19 06:44:30 - INFO - prediction of 2022-10-15 done, outcomes saved
+03-19 06:46:38 - INFO - prediction of 2022-10-16 done, outcomes saved
+03-19 06:48:45 - INFO - prediction of 2022-10-17 done, outcomes saved
+03-19 06:50:52 - INFO - prediction of 2022-10-18 done, outcomes saved
+03-19 06:52:59 - INFO - prediction of 2022-10-19 done, outcomes saved
+03-19 06:55:06 - INFO - prediction of 2022-10-20 done, outcomes saved
+03-19 06:57:14 - INFO - prediction of 2022-10-21 done, outcomes saved
+03-19 06:59:21 - INFO - prediction of 2022-10-22 done, outcomes saved
+03-19 07:01:28 - INFO - prediction of 2022-10-23 done, outcomes saved
+03-19 07:03:35 - INFO - prediction of 2022-10-24 done, outcomes saved
+03-19 07:05:42 - INFO - prediction of 2022-10-25 done, outcomes saved
+03-19 07:07:49 - INFO - prediction of 2022-10-26 done, outcomes saved
+03-19 07:09:57 - INFO - prediction of 2022-10-27 done, outcomes saved
+03-19 07:12:04 - INFO - prediction of 2022-10-28 done, outcomes saved
+03-19 07:14:11 - INFO - prediction of 2022-10-29 done, outcomes saved
+03-19 07:16:18 - INFO - prediction of 2022-10-30 done, outcomes saved
+03-19 07:18:25 - INFO - prediction of 2022-10-31 done, outcomes saved
+03-19 07:22:09 - INFO - prediction of 2022-11-01 done, outcomes saved
+03-19 07:24:17 - INFO - prediction of 2022-11-02 done, outcomes saved
+03-19 07:26:24 - INFO - prediction of 2022-11-03 done, outcomes saved
+03-19 07:28:31 - INFO - prediction of 2022-11-04 done, outcomes saved
+03-19 07:30:38 - INFO - prediction of 2022-11-05 done, outcomes saved
+03-19 07:32:45 - INFO - prediction of 2022-11-06 done, outcomes saved
+03-19 07:34:52 - INFO - prediction of 2022-11-07 done, outcomes saved
+03-19 07:36:59 - INFO - prediction of 2022-11-08 done, outcomes saved
+03-19 07:39:07 - INFO - prediction of 2022-11-09 done, outcomes saved
+03-19 07:41:14 - INFO - prediction of 2022-11-10 done, outcomes saved
+03-19 07:43:22 - INFO - prediction of 2022-11-11 done, outcomes saved
+03-19 07:45:29 - INFO - prediction of 2022-11-12 done, outcomes saved
+03-19 07:47:36 - INFO - prediction of 2022-11-13 done, outcomes saved
+03-19 07:49:44 - INFO - prediction of 2022-11-14 done, outcomes saved
+03-19 07:51:51 - INFO - prediction of 2022-11-15 done, outcomes saved
+03-19 07:53:59 - INFO - prediction of 2022-11-16 done, outcomes saved
+03-19 07:56:06 - INFO - prediction of 2022-11-17 done, outcomes saved
+03-19 07:58:13 - INFO - prediction of 2022-11-18 done, outcomes saved
+03-19 08:00:20 - INFO - prediction of 2022-11-19 done, outcomes saved
+03-19 08:02:28 - INFO - prediction of 2022-11-20 done, outcomes saved
+03-19 08:04:35 - INFO - prediction of 2022-11-21 done, outcomes saved
+03-19 08:06:42 - INFO - prediction of 2022-11-22 done, outcomes saved
+03-19 08:08:50 - INFO - prediction of 2022-11-23 done, outcomes saved
+03-19 08:10:57 - INFO - prediction of 2022-11-24 done, outcomes saved
+03-19 08:13:04 - INFO - prediction of 2022-11-25 done, outcomes saved
+03-19 08:15:12 - INFO - prediction of 2022-11-26 done, outcomes saved
+03-19 08:17:19 - INFO - prediction of 2022-11-27 done, outcomes saved
+03-19 08:19:26 - INFO - prediction of 2022-11-28 done, outcomes saved
+03-19 08:21:33 - INFO - prediction of 2022-11-29 done, outcomes saved
+03-19 08:23:40 - INFO - prediction of 2022-11-30 done, outcomes saved
+03-19 08:27:28 - INFO - prediction of 2022-12-01 done, outcomes saved
+03-19 08:29:36 - INFO - prediction of 2022-12-02 done, outcomes saved
+03-19 08:31:43 - INFO - prediction of 2022-12-03 done, outcomes saved
+03-19 08:33:50 - INFO - prediction of 2022-12-04 done, outcomes saved
+03-19 08:35:58 - INFO - prediction of 2022-12-05 done, outcomes saved
+03-19 08:38:05 - INFO - prediction of 2022-12-06 done, outcomes saved
+03-19 08:40:13 - INFO - prediction of 2022-12-07 done, outcomes saved
+03-19 08:42:20 - INFO - prediction of 2022-12-08 done, outcomes saved
+03-19 08:44:27 - INFO - prediction of 2022-12-09 done, outcomes saved
+03-19 08:46:35 - INFO - prediction of 2022-12-10 done, outcomes saved
+03-19 08:48:42 - INFO - prediction of 2022-12-11 done, outcomes saved
+03-19 08:50:49 - INFO - prediction of 2022-12-12 done, outcomes saved
+03-19 08:52:57 - INFO - prediction of 2022-12-13 done, outcomes saved
+03-19 08:55:05 - INFO - prediction of 2022-12-14 done, outcomes saved
+03-19 08:57:12 - INFO - prediction of 2022-12-15 done, outcomes saved
+03-19 08:59:19 - INFO - prediction of 2022-12-16 done, outcomes saved
+03-19 09:01:27 - INFO - prediction of 2022-12-17 done, outcomes saved
+03-19 09:03:34 - INFO - prediction of 2022-12-18 done, outcomes saved
+03-19 09:05:41 - INFO - prediction of 2022-12-19 done, outcomes saved
+03-19 09:07:49 - INFO - prediction of 2022-12-20 done, outcomes saved
+03-19 09:09:56 - INFO - prediction of 2022-12-21 done, outcomes saved
+03-19 09:12:03 - INFO - prediction of 2022-12-22 done, outcomes saved
+03-19 09:14:09 - INFO - prediction of 2022-12-23 done, outcomes saved
+03-19 09:16:16 - INFO - prediction of 2022-12-24 done, outcomes saved
+03-19 09:18:23 - INFO - prediction of 2022-12-25 done, outcomes saved
+03-19 09:20:30 - INFO - prediction of 2022-12-26 done, outcomes saved
+03-19 09:22:37 - INFO - prediction of 2022-12-27 done, outcomes saved
+03-19 09:24:51 - INFO - prediction of 2022-12-28 done, outcomes saved
+03-19 09:27:06 - INFO - prediction of 2022-12-29 done, outcomes saved
+03-19 09:29:17 - INFO - prediction of 2022-12-30 done, outcomes saved
+03-19 09:31:30 - INFO - prediction of 2022-12-31 done, outcomes saved
+03-19 09:31:30 - INFO - prediction all done, making dataset
+03-19 09:31:30 - INFO - lead: 0
+03-19 09:31:33 - INFO - <xarray.Dataset> Size: 4GB
+Dimensions:  (time: 8760, lat: 61, lon: 61, input_channel: 34)
+Coordinates:
+  * time     (time) datetime64[ns] 70kB 2022-01-01 ... 2022-12-31T23:00:00
+  * lat      (lat) float64 488B 25.0 24.75 24.5 24.25 ... 10.75 10.5 10.25 10.0
+  * lon      (lon) float64 488B 110.0 110.2 110.5 110.8 ... 124.5 124.8 125.0
+Dimensions without coordinates: input_channel
+Data variables:
+    input    (time, input_channel, lat, lon) float32 4GB 0.5812 0.9552 ... 1.805
+03-19 09:31:35 - INFO - lead: 1
+03-19 09:31:43 - INFO - <xarray.Dataset> Size: 9GB
+Dimensions:  (time: 8760, lat: 61, lon: 61, input_channel: 34)
+Coordinates:
+  * time     (time) datetime64[ns] 70kB 2022-01-01 ... 2022-12-31T23:00:00
+  * lat      (lat) float64 488B 25.0 24.75 24.5 24.25 ... 10.75 10.5 10.25 10.0
+  * lon      (lon) float64 488B 110.0 110.2 110.5 110.8 ... 124.5 124.8 125.0
+Dimensions without coordinates: input_channel
+Data variables:
+    input    (time, input_channel, lat, lon) float64 9GB nan nan ... 1.528 1.576
+03-19 09:31:47 - INFO - lead: 2
+03-19 09:31:54 - INFO - <xarray.Dataset> Size: 9GB
+Dimensions:  (time: 8760, lat: 61, lon: 61, input_channel: 34)
+Coordinates:
+  * time     (time) datetime64[ns] 70kB 2022-01-01 ... 2022-12-31T23:00:00
+  * lat      (lat) float64 488B 25.0 24.75 24.5 24.25 ... 10.75 10.5 10.25 10.0
+  * lon      (lon) float64 488B 110.0 110.2 110.5 110.8 ... 124.5 124.8 125.0
+Dimensions without coordinates: input_channel
+Data variables:
+    input    (time, input_channel, lat, lon) float64 9GB nan nan ... -0.02222
+03-19 09:31:58 - INFO - lead: 24
+03-19 09:32:01 - INFO - <xarray.Dataset> Size: 9GB
+Dimensions:  (time: 8760, lat: 61, lon: 61, input_channel: 34)
+Coordinates:
+  * time     (time) datetime64[ns] 70kB 2022-01-01 ... 2022-12-31T23:00:00
+  * lat      (lat) float64 488B 25.0 24.75 24.5 24.25 ... 10.75 10.5 10.25 10.0
+  * lon      (lon) float64 488B 110.0 110.2 110.5 110.8 ... 124.5 124.8 125.0
+Dimensions without coordinates: input_channel
+Data variables:
+    input    (time, input_channel, lat, lon) float64 9GB nan nan ... -2.489
