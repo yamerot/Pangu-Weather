@@ -1,0 +1,6 @@
+04-01 15:14:29 - INFO - memory initialized
+04-01 15:14:43 - INFO - session loaded
+04-01 15:14:53 - INFO - proceeding 2023-12-31T00, updating input_s chunk
+04-01 15:14:53 - WARNING - time out of range
+04-01 15:18:01 - INFO - prediction all done
+04-01 15:18:01 - WARNING - surface output not enough to fill a chunk: 2023-12-31T00 - 2023-12-31T23

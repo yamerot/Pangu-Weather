@@ -1,0 +1,4 @@
+# conda create -n pangu_zarr python==3.11
+# conda install cuda=11.6 cudnn=8.3.2 -c nvidia 
+# conda install numpy=1.26.4 xarray=2025.6.1 "zarr>=3.0" dask
+# pip install onnxruntime-gpu==1.14.0
